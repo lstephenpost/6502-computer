@@ -38,7 +38,7 @@ print:
 loop:
   jmp loop
 
-message: .asciiz "   Icario"
+message: .asciiz "   Titties!"
 
 lcd_wait:
   pha
