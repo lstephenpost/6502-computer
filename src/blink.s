@@ -4,7 +4,7 @@ reset:
   lda #$ff
   sta $6002
 
-  lda #$50
+  lda #$01
   sta $6000
 
 loop:
